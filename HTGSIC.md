@@ -611,8 +611,7 @@ Not familiar with this platform, reminds me of the BBS system... https://en.wiki
 I do WANT to explore, I just haven't had the time. It's on the 'eventual' list for sure though.
 
 ## Seeking a Job?
-Finding a Job:
-- https://www.cyberseek.org/index.html#aboutit
-Evaluating Pathways:
+- Check out Cyberseek: https://www.cyberseek.org/index.html#aboutit
+- And evaluate pathways in cyber:
 - https://www.cyberseek.org/pathway.html
 
