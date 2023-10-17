@@ -610,8 +610,12 @@ https://mastodon.social/explore, https://mastodon.social/about
 Not familiar with this platform, reminds me of the BBS system... https://en.wikipedia.org/wiki/Bulletin_board_system
 I do WANT to explore, I just haven't had the time. It's on the 'eventual' list for sure though.
 
-## Seeking a Job?
-- Check out Cyberseek: https://www.cyberseek.org/index.html#aboutit
-- And evaluate pathways in cyber:
-- https://www.cyberseek.org/pathway.html
+## Need a Job?
 
+### CyberSeek
+- Check out Cyberseek: https://www.cyberseek.org/index.html#aboutit
+- And evaluate pathways in cyber: https://www.cyberseek.org/pathway.html
+
+### Linux Foundation - Open Source Projects
+- Check out the open source projects at Linux Foundation: https://www.linuxfoundation.org/projects
+- Sort by 'Privacy and Security'
