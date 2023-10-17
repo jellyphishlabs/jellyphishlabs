@@ -610,11 +610,9 @@ https://mastodon.social/explore, https://mastodon.social/about
 Not familiar with this platform, reminds me of the BBS system... https://en.wikipedia.org/wiki/Bulletin_board_system
 I do WANT to explore, I just haven't had the time. It's on the 'eventual' list for sure though.
 
-## 
 ## Seeking a Job?
 Finding a Job:
-https://www.cyberseek.org/index.html#aboutit
+- https://www.cyberseek.org/index.html#aboutit
 Evaluating Pathways:
-https://www.cyberseek.org/pathway.html
+- https://www.cyberseek.org/pathway.html
 
-https://www.hackthebox.com/hacker/infosec-careers
