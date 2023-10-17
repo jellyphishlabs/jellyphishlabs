@@ -2,5 +2,5 @@
 - 👀 I’m interested in cybersecurity research
 - 🌱 I’m currently learning virtualized environments.
 - 📫 How to reach me: Shoot me an email at jellyphish95@protonmail.com
-- Fun fact, jellyphish are 95% water. 
+- :ocean: Fun fact, jellyphish are 95% water. 
 
