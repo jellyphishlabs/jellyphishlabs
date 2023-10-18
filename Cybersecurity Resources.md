@@ -1,4 +1,11 @@
 # Cybersecurity Resources
+Please feel free to share this list of resources or make recommendations for additions. Reach me at jellyphish95@protonmail.com for questions or addition recommendations. 
+
+- **Purpose**: I created this list in order to provide fun ways to absorb information about the field of cybersecurity and to structure my talk "How to Get Started in Cybersecurity" for JawnCon 0x0.
+- **About**: It's not an exhaustive list of resources by any means, but should serve as a starting point for anyone that completely new to cybersecurity and looking to know more.
+- **Author**: Jellyphish
+- **Date**: 10/18/2023
+
 
 ## Cyber Books
 ### Historical Reference & Commentary
@@ -76,13 +83,13 @@ These are books about significant events in internet & technology history that h
 - **Persuasion and Privacy in Cyberspace**: The Online Protests over Lotus MarketPlace and the Clipper Chip
 > Laura J. Gurak ( https://scholar.google.com/citations?user=SBAElgkAAAAJ, https://cla.umn.edu/about/directory/profile/gurakl#publications ) ... (Ph.D., Communication and Rhetoric, Rensselaer Polytechnic Institute) studies the relationship between language and Internet use, with a focus on online communities, digital literacies, and Internet-based research.
 
-- Cyberdeterrence and Cyberwar
+- **Cyberdeterrence and Cyberwar**
 > By Martin C. Libicki (https://www.usna.edu/CyberCenter/People/Biographies/Libicki.php , https://www.rand.org/pubs/authors/l/libicki_martin_c.html) ... (Ph.D., U.C. Berkeley 1978) holds the Keyser Chair of cybersecurity studies at the U.S. Naval Academy.
 
 - **Inside Cyber Warfare**: Mapping the Cyber Underworld
 > By Jeffrey Caruso (né Carr) ( https://www.linkedin.com/in/jeffreycaruso/, https://substack.com/@jeffreycaruso) Cybersecurity author, researcher, and entrepreneur, and the only researcher with direct access to the Offensive Cyber unit of the Main Intelligence Directorate of the Ministry of Defense of Ukraine (GURMO).
 
-- Spam Nation: The Inside Story of Organized Cybercrime—from Global Epidemic to Your Front Door
+- **Spam Nation: The Inside Story of Organized Cybercrime—from Global Epidemic to Your Front Door**
 > By Brian Krebs ( https://twitter.com/briankrebs, https://krebsonsecurity.com/ ) ... a reporter for The Washington Post from 1995 to 2009, authoring more than 1,300 blog posts for the Security Fix blog, as well as hundreds of stories for washingtonpost.com and The Washington Post newspaper, including eight front-page stories in the dead-tree edition and a Post Magazine cover piece on botnet operators.
 
 ### Technical Reference
@@ -245,6 +252,7 @@ Find them here: https://nostarch.com/
 	- If anyone has a stash of each episode per chance, hit me up.
 
 Just a fun easter egg... "The Weird Rise of Fake Podcasts" by Jaime French: https://www.youtube.com/watch?v=5YeDpLptbdo
+
 ### Where To Listen
 Wherever you get your podcasts.... ;)
 ### How to Contribute to One
@@ -323,6 +331,7 @@ If you made it this far... It's time for VGhlIEcwMDAwRCBTdHVmZmZm
 - Training Packages: https://www.rangeforce.com/packages
 	- No Pricing information available...
 	- It's an ok platform if your employer is paying for it, but it's pricey for an individual.
+
 ### Video Based
 
 **UDEMY**: https://www.udemy.com/
