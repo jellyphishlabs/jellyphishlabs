@@ -162,6 +162,7 @@ Find them here: https://nostarch.com/
 - Audible: https://www.audible.com/
 
 ## Podcasts
+Most podcasts to my knowledge are free, this is a great way to absorb cybersecurity info while you go about your day. Some shows offer a subscription tier that's ad-free. Even so, if you're not rolling in it, ads are still skippable, at least on the Apple Podcast app, unlike video streaming platforms...
 
 ### Historical Accounts, Current Events and Commentary on Security
 
@@ -255,6 +256,7 @@ Just a fun easter egg... "The Weird Rise of Fake Podcasts" by Jaime French: http
 
 ### Where To Listen
 Wherever you get your podcasts.... ;)
+
 ### How to Contribute to One
 
 For your consideration, look into HPR:
