@@ -83,11 +83,28 @@ These are books about significant events in internet & technology history that h
 - Spam Nation: The Inside Story of Organized Cybercrime—from Global Epidemic to Your Front Door
 > By Brian Krebs ( https://twitter.com/briankrebs, https://krebsonsecurity.com/ ) ... a reporter for The Washington Post from 1995 to 2009, authoring more than 1,300 blog posts for the Security Fix blog, as well as hundreds of stories for washingtonpost.com and The Washington Post newspaper, including eight front-page stories in the dead-tree edition and a Post Magazine cover piece on botnet operators.
 
+### Technical Reference
+
+There are so many great technical reference books out there! These come in handy especially if you're trying to hone a very specific skillset, such as car hacking or learning how to program your Rubber Ducky.
+
+Check out the following publishers if your looking to focus in one area and you've maxed out the online platforms, or if they don't have what you're looking to learn.
+
+#### Packt Publishing Limited 
+Find them here: https://www.packtpub.com/
+- They have a section called **Free Learning**: https://www.packtpub.com/free-learning  
+- They offer a 7-day free trial and multiple subscription levels starting at $15.99 / billed monthly. 
+- Check out their learning paths too: https://subscription.packtpub.com/learning-paths
+
+#### No Starch Press
+Find them here: https://nostarch.com/
+- Check out there catalog of security-related books: https://nostarch.com/catalog/security
+- While you can purchase directly from them, if you're looking to save money and tree's, consider sourcing through a library or ask to borrow from infosec community members.
+- They offer errata (https://en.wikipedia.org/wiki/Erratum) on their published books, so make sure you scroll to the bottom of the book's post and download a free copy.
 ## Where to Get These Books
 ### Libraries
 - Public Libraries - Search for "public libraries near me" in your favorite Search Engine
 - Carnegie Libraries: https://www.carnegielibrary.org/
-- 	- Naxos Spoken Word Library: https://carnegie.v3.naxosspokenwordlibrary.com/cardlogin
+	- Naxos Spoken Word Library: https://carnegie.v3.naxosspokenwordlibrary.com/cardlogin
 - WorldCat: https://www.worldcat.org/libraries
 - Non-Resident Library Cards (Most States)
 >https://everyday-reading.com/where-you-can-get-a-non-resident-library-card/ 
@@ -95,7 +112,6 @@ These are books about significant events in internet & technology history that h
 >... There are lots of places to get library cards for non-residents (even better, many of them are free non-resident library cards!). But even if they aren’t free non-resident library cards, it may be worth $50-100 a year for you to have access to the library catalog of a much bigger collection.
 
 ### Second Hand Sellers
-
 - Independent Bookstore Locator 
 	- Bookshop: https://bookshop.org/info/about-us
 		- Find a Local Bookshop Near You:  https://bookshop.org/pages/bookstores
@@ -139,8 +155,9 @@ These are books about significant events in internet & technology history that h
 ## Podcasts
 
 ### Historical Accounts, Current Events and Commentary on Security
-- Cyber Empathy by Andra Zaharia: https://cyberempathy.org/
+
 - Modem Mischief by Keith Korneluk: https://www.modemmischief.com/
+- Cyber Empathy by Andra Zaharia: https://cyberempathy.org/
 - Darknet Diaries by Jack Rhysider: https://darknetdiaries.com/
 - Malicious Life by Cybereason: https://malicious.life/
 - Hacked by Scott Francis Winder & Jordan Bloemen: https://www.patreon.com/hackedpodcast
@@ -148,7 +165,7 @@ These are books about significant events in internet & technology history that h
 - Shoot the Messenger: Espionage, Murder, & Pegasus Spyware by PRX & Exile Content Studio: https://www.iheart.com/podcast/310-shoot-the-messenger-espion-107023309/
 - The Lazarus Heist by BBC News: https://www.bbc.co.uk/programmes/w13xtvg9
 - Hunting Warhead by CBC Podcasts and the Norwegian newspaper VG: https://www.cbc.ca/listen/cbc-podcasts/387-hunting-warhead
-- Foundering - Season 4 - The John McAfee Story: https://www.bloomberg.com/foundering
+- Foundering (Season 4) - The John McAfee Story: https://www.bloomberg.com/foundering
 - All Things Being Cyber by Source 44 Security https://www.source44.net/#podcasts
 - Getting into InfoSec by Ayman Elsawah: https://www.gettingintoinfosec.com/
 - Talkin' About InfoSec News by Black Hills InfoSec: https://www.blackhillsinfosec.com/podcasts/ 
@@ -304,7 +321,6 @@ If you made it this far... It's time for VGhlIEcwMDAwRCBTdHVmZmZm
 - Training Packages: https://www.rangeforce.com/packages
 	- No Pricing information available...
 	- It's an ok platform if your employer is paying for it, but it's pricey for an individual.
-
 ### Video Based
 
 **UDEMY**: https://www.udemy.com/
@@ -329,8 +345,8 @@ If you made it this far... It's time for VGhlIEcwMDAwRCBTdHVmZmZm
 - Free (very) limited version, you don't get a lot of the heavier stuff, it's like how to use PPT and Word :( I assume the free stuff is really more to demo the style of teaching I guess. They have a lot of cert courses in the premium version, but I recommend just buying the certification study guide and supplementing with free Youtube courses or other one-time paid resources as needed, etc.
 
 **YOUTUBE**: https://www.youtube.com/ 
-I challenge you to find the cyber channels and content creators, that work for you, some are more structured than others!
-- I personally don't really use Yutube unless I am trying to find a specific "how-to ..." for something.
+- I challenge you to find the cyber channels and content creators, that work for you, some are more structured than others!
+- I personally don't really use Youtube unless I am trying to find a specific "how-to ..." for something.
 - I prefer a book or interactive online learning platform.
 
 **Pluralsight**: https://www.pluralsight.com/
@@ -344,7 +360,11 @@ I challenge you to find the cyber channels and content creators, that work for y
 
 Concise AC does a pretty good job of keeping up with the available conferences around the world: https://infosec-conferences.com/
 
-Go to conference and meet folks, network in real life. Most of the smaller regional conferences like Bsides are very low cost, even free sometimes! 
+Have a conference you run that needs to be posted, let them know: it's FREE! 
+https://infosec-conferences.com/submission/
+
+Go to conferences and meet folks, network in real life. Most of the smaller regional conferences like Bsides are very low cost, even free sometimes!  
+
 ### Organization Based
 
 - ISC^2: https://www.isc2.org/professional-development/events
@@ -353,6 +373,7 @@ Go to conference and meet folks, network in real life. Most of the smaller regio
 - Security Bsides Series: http://www.securitybsides.com/w/page/12194156/FrontPage
 	- Just a note on their main site: it's not totally up to date, since Bsides conferences are held regionally, you might have more success finding a local Bsides conference by just searching "bsides" + " city you're in".
 - SchmooCon: https://www.shmoocon.org/
+  
 ### Independently Owned
 
 - DEFCON by Dark Tangent LLC: https://defcon.org/
@@ -368,7 +389,7 @@ Go to conference and meet folks, network in real life. Most of the smaller regio
 - Q: Vendors, what in the world are those? 
 - A: Think companies that supply security services or tools to other companies.
 - Vendor conferences are usually for their victi... *cough* I mean customers, to try and sell them more product and explain their already convoluted solutions even more poorly. Alk'q zljb clo jb lh, yrq qefkh xilkd qeb ifkbp lc Zirkh .hlkc, Jbifxqbpq Bum., Apzxibo Pbkfqe.
-- Sounds like FUN? Think again...
+- Sounds like FUN, right?  
 
 ## In-Person Meetups
 
@@ -379,16 +400,14 @@ Find more info at https://forum.defcon.org/social-groups
 >A: The DEF CON Groups were spawned from the annual DEF CON security conference in Las Vegas. The DEF CON Groups (DCGs or DC-Groups) are a gathering point for folks interested in the alternate applications of modern technology, referred to properly as 'hacking'. DCGs are not intended to compete with any other computer groups, such as 2600, but rather to provide yet another gathering place for the discussion of technology and security topics. DCG meetings are open to anyone, regardless of their skill, age, job, gender, etc. DCGs are designed to help you learn new things, meet new people, mentor others in areas you may be strong in, and provide some cohesion within the hacker culture and it's members.
 >From DT: https://forum.defcon.org/node/231249
 
-No DCG's in your area, no problem; Start your own! by following the provided guidelines: 
->https://forum.defcon.org/node/231250
+No DCG's in your area, no problem; Boot up your own! https://forum.defcon.org/node/231250
 
 ### 2600 Meetings 
 Find more info at https://www.2600.com/meetings/
 
 >2600: The Hacker Quarterly is an American seasonal publication of technical information and articles, many of which are written and submitted by the readership, on a variety of subjects including hacking, telephone switching systems, Internet protocols and services, as well as general news concerning the computer "underground. From https://en.wikipedia.org/wiki/2600%3A_The_Hacker_Quarterly.
 
-No Meetings in your area, no problem; Start your own! by following the provided guidelines: 
->https://www.2600.com/meetings/guidelines.html
+No Meetings in your area, no problem; Start your own! https://www.2600.com/meetings/guidelines.html
 
 ### HTB Meetups
 For more information: https://www.hackthebox.com/meetups
@@ -442,6 +461,7 @@ How to sign-up: https://bug-bounty.com/hackers/
 > There are a lot of Capture The Flag (CTF) competitions in our days, some of them have excelent tasks, but in most cases they're forgotten just after the CTF finished. We decided to make some kind of CTF archive and of course, it'll be too boring to have just an archive, so we made a place, where you can get some another CTF-related info - current overall Capture The Flag team [rating](https://ctftime.org/rating-formula/), per-team statistics etc. 
 
 Find their list here with  *ALL*, *Now Running*, and *Upcoming*: https://ctftime.org/event/list/
+
 ### 247 CTF 
 This one looks promising! https://247ctf.com/
 
@@ -456,6 +476,7 @@ This one looks promising! https://247ctf.com/
 	- Continued access to a weekly hint (for a challenge you have not solved)
 	- Access to the private "supporters only" Discord channel
 - They even have a Youtube channel to teach you theory: https://www.youtube.com/247CTF
+
 ### CTFLearn
 Need to learn CTF's? CTFLearn's got you covered... maybe?! https://ctflearn.com/learn++
 
@@ -470,6 +491,7 @@ Tried to use this to solve the initial easy challenge, but the platform was slow
 Maybe I'm just using the wrong browser, let me know if you have better luck.
 
 Done with the learning, want to flex your new powers? Try some competitions and earn prizes.
+
 ### NationalCyberLeague Competition
 For more information: https://nationalcyberleague.org/competition. 
 
@@ -506,12 +528,14 @@ Two categories provided with different criteria for each:
 - Professional Category
 
 Looking for a challenge???
+
 ### Cisco CTF - Security
 What are you waiting for, get more info here: https://play-security.ciscoctf.io/
 
 - Open all year round.
 - Free for everyone.
 - FAQ's can be found here: https://play-security.ciscoctf.io/%F0%9F%8F%86%E2%9A%A1%F0%9F%9A%A9/faqs
+  
 ### Mandiant's Flare-On CTF
 Get lit, jump in here for all the details, terminal style, make sure to explore: https://flare-on.com/
 
@@ -520,6 +544,7 @@ Get lit, jump in here for all the details, terminal style, make sure to explore:
 	- Start: September 29th, 8:00:00 PM (Eastern Daylight Time)
 	- End: November 10th, 8:00:00 PM (Eastern Daylight Time)
 	- CTFd Platform for each Flare-On competition: https://flare-on10.ctfd.io/
+
 ### Darknet-NG CTF
 Put on your tinfoil hat and explore: https://darknet-ng-continual.ctfd.io/
 
@@ -532,6 +557,7 @@ Put on your tinfoil hat and explore: https://darknet-ng-continual.ctfd.io/
 > https://darknet-ng-continual.ctfd.io/lore
 
 Why stop there?
+
 ### Create Your Own CTF
 
 Need a framework to create your own CTF or hackathon? Consider the following frameworks!
@@ -607,15 +633,120 @@ Great platform for meeting people all with a specific purpose in mind, like for 
 
 ### Mastodon 
 https://mastodon.social/explore, https://mastodon.social/about
-Not familiar with this platform, reminds me of the BBS system... https://en.wikipedia.org/wiki/Bulletin_board_system
-I do WANT to explore, I just haven't had the time. It's on the 'eventual' list for sure though.
+Thoughts: Not familiar with this platform, reminds me of the BBS system... https://en.wikipedia.org/wiki/Bulletin_board_system. I do WANT to explore it, I just haven't had the time. It's on the 'eventual' list for sure though.
+
+If you are on Mastodon, then be sure to check out Infosec.exchange to network with security professionals or enthusiasts: https://infosec.exchange/explore 
+
+## Newsletters
+
+Newsletters are growing rapidly with Substack! Check them out here: https://on.substack.com/p/start-a-substack-newsletter
+
+Newsletters might sound old school but help you stay on top of industry trends, and latest trends. You get fresh info sent straight one essential spot you probably find yourself at least once a day, your Inbox.
+
+Some that I like and recommend,
+
+ByteByteGo: https://bytebytego.com/
+Technical Interview Prep, in order to secure systems, you need to understand how they work.
+
+Cyber Dream Job Blog: https://joshfullmer.substack.com/
+Josh Fullmer, a cyber talent recruiter, gives great advice for how to hack your job search process.
+
+The OSINT Newsletter: https://osintnewsletter.com/
+Jake Creps, serves up delicious OSINT news, tools, tactics, and techniques.
+
+The Looking Glass: https://substack.com/@lg
+Julie Zhou, essays on the endless journey of building products, teams, and ourselves.
 
 ## Need a Job?
 
 ### CyberSeek
-- Check out Cyberseek: https://www.cyberseek.org/index.html#aboutit
-- And evaluate pathways in cyber: https://www.cyberseek.org/pathway.html
 
-### Linux Foundation - Open Source Projects
-- Check out the open source projects at Linux Foundation: https://www.linuxfoundation.org/projects
-- Sort by 'Privacy and Security'
+- Check out Cyberseek: https://www.cyberseek.org/index.html#aboutit
+- And evaluate pathways in cybersecurity: https://www.cyberseek.org/pathway.html
+### Linux Foundation 
+
+- Consider contributing to open source project: https://www.linuxfoundation.org/
+- Even without being formally employed in infosec or cybersecurity, if you know what your doing, you can contribute to open source projects: https://www.linuxfoundation.org/projects
+	- Once on the projects page scroll down until you see the project logos. 
+	- Check the drop down to refine your search, there's a category for 'Privacy & Security'.
+### Create an InfoSec Blog
+Don't take my word for it, take Graham Helton's!
+
+Why you should create an Infosec/IT Blog: https://grahamhelton.com/blog/infosecblog1/
+Create a blog with markdown, Hugo, and AWS: https://grahamhelton.com/blog/infosecblog2/
+
+## Try Obsidian
+
+What is Obsidian you ask? 
+>Obsidian is the private and flexible writing app that adapts to the way you think.
+>https://obsidian.md/ 
+
+Story Time, curtains up! \*jazz plays\*
+
+**Act 1:** 
+I fell in love with Markdown during my second cybersecurity internship and have not looked back since. I needed a way to quickly categorize information I was accumulating in the process of fixing the *very* broken tool I had been tasked with "installing". 
+
+I knew about Markdown formatting from Github README's and wanted to bring it outside the platform. In the end, I was able to beautifully document the tool, and create a README / user guide to help them manage the tool after I left. 
+
+**Act 2:** 
+A close friend recommended I try Obsidian. I however did not **IMMEDIATELY** go try it out, to my deep and eternal regret!
+
+Months later, I attended DEFCON, had a blast, and was again recommended Obsidian by someone else. This time I did try it out, and was absolutely floored. Why had I not tried it sooner?! I was and am still ashamed of myself... \**sobs in corner*\*
+
+**Act 3:** 
+Post-DEFCON I was very motivated, and got right to work on a few high priority projects.
+- Building my website: https://jellyphish.io
+- Fixing my server
+- Powering up to take more certs
+- Reviewing "Linux Basics for Hackers" by OTW
+- Building this talk for JawnCon!
+
+**Act 4:**
+While I was using Obsidian for note taking, I had not fully explored it's wondrous capabilities. More regret, more shame, more sobbing and head shaking... I discovered too late you can launch your blog direct to the web for as little as $8 / month with Publish.
+https://obsidian.md/publish 
+
+In closing, lose no time, have no shame, try Obsidian today.
+
+## Entertainment
+
+Time for a break right?! Last part, hang in there, here we go.
+
+### TV Shows
+
+**Mr. Robot**: https://www.usanetwork.com/mr-robot
+Young antisocial computer programmer Elliot connects with people by hacking them.
+Genre: Drama
+
+**Silicon Valley**: https://www.hbo.com/silicon-valley
+Less about hacking, more about the tech drenched world live in and the importance of privacy and ethics.
+Genre: Comedy
+
+**Scorpion**: https://www.paramountplus.com/shows/scorpion/
+A team of brilliant misfits helps Homeland Security defend against complex high-tech threats.
+### Movies
+
+**WarGames**: https://www.themoviedb.org/movie/860-wargames
+High School student David Lightman has a talent for hacking. But while trying to hack into a computer system to play unreleased video games, he unwittingly taps into the Defense Department's war computer ...
+
+**Hackers**: https://www.amazon.com/Hackers-Jonny-Lee-Miller/dp/B0030MAGZO
+Tech-savvy teen hackers identify a scam orchestrated by a corporate computer pro in this sci-fi film.
+
+**The Matrix**: https://www.warnerbros.com/movies/matrix
+When a beautiful stranger ( Carrie-Anne Moss) leads computer hacker Neo ( Keanu Reeves) to a forbidding underworld, he discovers the shocking truth--**the** life he knows is the elaborate deception of an evil cyber-intelligence.
+
+**The Imitation Game**: https://www.lionsgate.com/movies/the-imitation-game
+The Imitation Game follows Turing as he leads a crew of scholars, ... and intelligence officers in cracking the unbreakable codes of Germany's World War II Enigma machine.
+
+**V for Vendetta**: https://www.warnerbros.com/movies/v-vendetta
+2 words: Guy Fawkes.
+
+**Silk Road**: https://www.lionsgate.com/movies/silk-road
+Silk Road is a 2021 American crime thriller film, written for the screen and directed by Tiller Russell based on the Rolling Stone article "Dead End on Silk Road: Internet Crime Kingpin Ross Ulbricht's Big Fall" by David Kushner. https://en.wikipedia.org/wiki/Silk_Road_(film)
+
+### Documentaries
+
+There are some good ones out there, check out Port Swigger's listing: 
+https://portswigger.net/daily-swig/the-top-10-best-hacking-documentaries-of-all-time
+
+## Questions? 
+My inbox is open, jellyphish95@protonmail.com.
