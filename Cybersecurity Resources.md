@@ -696,8 +696,8 @@ Julie Zhou, essays on the endless journey of building products, teams, and ourse
 ### Create an InfoSec Blog
 Don't take my word for it, take Graham Helton's!
 
-Why you should create an Infosec/IT Blog: https://grahamhelton.com/blog/infosecblog1/
-Create a blog with markdown, Hugo, and AWS: https://grahamhelton.com/blog/infosecblog2/
+- Why you should create an Infosec/IT Blog: https://grahamhelton.com/blog/infosecblog1/
+- Create a blog with markdown, Hugo, and AWS: https://grahamhelton.com/blog/infosecblog2/
 
 ## Need a documentation framework - Try Obsidian!
 
