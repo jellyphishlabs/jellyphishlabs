@@ -4,7 +4,7 @@ Please feel free to share this list of resources or make recommendations for add
 - **Purpose**: I created this list in order to provide fun ways to absorb information about the field of cybersecurity and to structure my talk "How to Get Started in Cybersecurity" for JawnCon 0x0.
 - **About**: It's not an exhaustive list of resources by any means, but should serve as a starting point for anyone that completely new to cybersecurity and looking to know more.
 - **Author**: Jellyphish
-- **Date**: 10/26/2023
+- **Last Updated**: 6/9/2024
 
 ## Cyber Books
 ### Historical Reference & Commentary
@@ -173,7 +173,7 @@ Most podcasts to my knowledge are free, this is a great way to absorb cybersecur
 - What the Hack? by Adam Levin and Loud Tree Media: https://adamlevin.com/what-the-hack/
 - Shoot the Messenger: Espionage, Murder, & Pegasus Spyware by PRX & Exile Content Studio: https://www.iheart.com/podcast/310-shoot-the-messenger-espion-107023309/
 - The Lazarus Heist by BBC News: https://www.bbc.co.uk/programmes/w13xtvg9
-- Hunting Warhead by CBC Podcasts and the Norwegian newspaper VG: https://www.cbc.ca/listen/cbc-podcasts/387-hunting-warhead
+- Hunting Warhead by CBC Podcasts and the Norwegian newspaper VG (trigger warning for mature, depressing content): https://www.cbc.ca/listen/cbc-podcasts/387-hunting-warhead
 - Foundering (Season 4) - The John McAfee Story: https://www.bloomberg.com/foundering
 - All Things Being Cyber by Source 44 Security https://www.source44.net/#podcasts
 - Getting into InfoSec by Ayman Elsawah: https://www.gettingintoinfosec.com/
@@ -254,7 +254,7 @@ Most podcasts to my knowledge are free, this is a great way to absorb cybersecur
 Just a fun easter egg... "The Weird Rise of Fake Podcasts" by Jaime French: https://www.youtube.com/watch?v=5YeDpLptbdo
 
 ### Where To Listen
-Wherever you get your podcasts.... ;)
+Wherever you get your podcasts.... :)
 
 ### How to Contribute to One
 
@@ -327,6 +327,11 @@ If you made it this far... It's time for VGhlIEcwMDAwRCBTdHVmZmZm
 	- Walkthroughs
 	- Set a weekly learning target to stay on track.
 
+**Picus Security Purple Academy**: https://academy.picussecurity.com/home
+- If you want to learn more about Purple teaming, then Purple Academy is a good place to start.
+- FREE trainings are available in video format at the link above.
+- They also offer CPE's for each training, so this is a great way to also work on renewing certifications.
+
 **Fortiphyd Logic Virtual Training Grounds**: https://training.fortiphyd.com/
 - If you want to learn OT security and don't know where to start, then start with Fortiphyd Logic's Virtual Training Ground.
 - There are 2 FREE starter courses: ICS000 and ICS101.
@@ -389,7 +394,7 @@ Go to conferences and meet folks, network in real life. Most of the smaller regi
 - CompTIA: https://connect.comptia.org/channelcon?sfredirect=/channelcon
 - Security Bsides Series: http://www.securitybsides.com/w/page/12194156/FrontPage
 	- Just a note on their main site: it's not totally up to date, since Bsides conferences are held regionally, you might have more success finding a local Bsides conference by just searching "bsides" + " city you're in".
-- SchmooCon: https://www.shmoocon.org/
+- ~~SchmooCon: https://www.shmoocon.org/~~: https://www.csoonline.com/article/1291036/shmoocon-to-take-its-final-bow-in-2025.html
   
 ### Independently Owned
 
@@ -675,22 +680,26 @@ Julie Zhou, essays on the endless journey of building products, teams, and ourse
 ## Need a Job?
 
 ### CyberSeek
-
 - Check out Cyberseek: https://www.cyberseek.org/index.html#aboutit
 - And evaluate pathways in cybersecurity: https://www.cyberseek.org/pathway.html
+  
 ### Linux Foundation 
-
 - Consider contributing to open source project: https://www.linuxfoundation.org/
 - Even without being formally employed in infosec or cybersecurity, if you know what your doing, you can contribute to open source projects: https://www.linuxfoundation.org/projects
 	- Once on the projects page scroll down until you see the project logos. 
 	- Check the drop down to refine your search, there's a category for 'Privacy & Security'.
+
+### Join Cyberr
+- They're endeavoring to connect the Cyber World through posting jobs and collecting applications from professionals.
+- Check them out at https://www.cyberr.ai/
+
 ### Create an InfoSec Blog
 Don't take my word for it, take Graham Helton's!
 
 Why you should create an Infosec/IT Blog: https://grahamhelton.com/blog/infosecblog1/
 Create a blog with markdown, Hugo, and AWS: https://grahamhelton.com/blog/infosecblog2/
 
-## Try Obsidian
+## Need a documentation framework - Try Obsidian!
 
 What is Obsidian you ask? 
 >Obsidian is the private and flexible writing app that adapts to the way you think.
