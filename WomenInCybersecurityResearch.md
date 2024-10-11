@@ -5,25 +5,24 @@
 - Women's Gains in STEM https://www.census.gov/library/stories/2021/01/women-making-gains-in-stem-occupations-but-still-underrepresented.html
 
 
-## US Bureau of Labor and Statistics research for for Information Security Analysts
-- the government catch all term for cybersecurity roles
-- https://www.bls.gov/oes/2023/may/oes151212.htm
-- https://www.bls.gov/cps/cpsaat11.pdf
+## US Bureau of Labor and Statistics research for Information Security Analysts
+- Information Security Analysts: https://www.bls.gov/oes/2023/may/oes151212.htm
+  - The government catch all term for cybersecurity roles
 - Women and minorities by detailed occupation, age 16 and over from 2010 - 2023
-- 2023 https://www.bls.gov/cps/cpsaat11.pdf (19.3%)
-- 2022 https://www.bls.gov/cps/aa2022/cpsaat11.pdf (18%)
-- 2021 https://www.bls.gov/cps/aa2021/cpsaat11.pdf (18.2%)
-- 2020 https://www.bls.gov/cps/aa2020/cpsaat11.pdf (11%)
-- 2019 https://www.bls.gov/cps/aa2019/cpsaat11.pdf (17.1%)
-- 2018 https://www.bls.gov/cps/aa2018/cpsaat11.pdf (24.9%)
-- 2017 https://www.bls.gov/cps/aa2017/cpsaat11.pdf (20.2%)
-- 2016 https://www.bls.gov/cps/aa2016/cpsaat11.pdf (21.8%)
-- 2015 https://www.bls.gov/cps/aa2015/cpsaat11.pdf (19.7%)
-- 2014 https://www.bls.gov/cps/aa2014/cpsaat11.pdf (18.1%)
-- 2013 https://www.bls.gov/cps/aa2013/cpsaat11.pdf ()
-- 2012 https://www.bls.gov/cps/aa2012/cpsaat11.pdf (15.1%)
-- 2011 https://www.bls.gov/cps/aa2011/cpsaat11.pdf ()
-- 2010 https://www.bls.gov/cps/aa2010/cpsaat11.pdf (no category for Information Security Analyst)
+  - 2023 https://www.bls.gov/cps/cpsaat11.pdf (19.3%)
+  - 2022 https://www.bls.gov/cps/aa2022/cpsaat11.pdf (18%)
+  - 2021 https://www.bls.gov/cps/aa2021/cpsaat11.pdf (18.2%)
+  - 2020 https://www.bls.gov/cps/aa2020/cpsaat11.pdf (11%)
+  - 2019 https://www.bls.gov/cps/aa2019/cpsaat11.pdf (17.1%)
+  - 2018 https://www.bls.gov/cps/aa2018/cpsaat11.pdf (24.9%)
+  - 2017 https://www.bls.gov/cps/aa2017/cpsaat11.pdf (20.2%)
+  - 2016 https://www.bls.gov/cps/aa2016/cpsaat11.pdf (21.8%)
+  - 2015 https://www.bls.gov/cps/aa2015/cpsaat11.pdf (19.7%)
+  - 2014 https://www.bls.gov/cps/aa2014/cpsaat11.pdf (18.1%)
+  - 2013 https://www.bls.gov/cps/aa2013/cpsaat11.pdf ()
+  - 2012 https://www.bls.gov/cps/aa2012/cpsaat11.pdf (15.1%)
+  - 2011 https://www.bls.gov/cps/aa2011/cpsaat11.pdf ()
+  - 2010 https://www.bls.gov/cps/aa2010/cpsaat11.pdf (no category for Information Security Analyst)
 
 ## ISC2 research for Women in Cybersecurity
 - https://www.isc2.org/Insights/2024/04/Women-in-Cybersecurity-Report-Women-in-the-Profession
