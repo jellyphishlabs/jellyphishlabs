@@ -1,4 +1,4 @@
-# Reserch for JawnCon 0x1 Panel Talk "Women in Cybersecurity: Our Rise, Fall and Return"
+# Research for JawnCon 0x1 Panel Talk "Women in Cybersecurity: Our Rise, Fall and Return"
 
 ## US Census Bureau reporting for women in STEM
 - Census Bureau Reports Women's Employment in Science, Tech, Engineering and Math Jobs Slowing as Their Share of Computer Employment Falls https://www.census.gov/newsroom/archives/2013-pr/cb13-162.html
