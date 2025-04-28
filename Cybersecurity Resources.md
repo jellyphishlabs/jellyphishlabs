@@ -4,7 +4,7 @@ Please feel free to share this list of resources or make recommendations for add
 - **Purpose**: I created this list in order to provide fun ways to absorb information about the field of cybersecurity and to structure my talk "How to Get Started in Cybersecurity" for JawnCon 0x0.
 - **About**: It's not an exhaustive list of resources by any means, but should serve as a starting point for anyone that completely new to cybersecurity and looking to know more.
 - **Author**: Jellyphish
-- **Last Updated**: 6/9/2024
+- **Last Updated**: 6/9/2024, 4/28/2025
 
 ## Cyber Books
 ### Historical Reference & Commentary
@@ -165,9 +165,12 @@ Most podcasts to my knowledge are free, this is a great way to absorb cybersecur
 
 ### Historical Accounts, Current Events and Commentary on Security
 
-- Modem Mischief by Keith Korneluk: https://www.modemmischief.com/
+- Bites and Bytes by Kristin Demoranville (Award Winning - Women in Podcasting 2024 Nominee! Very important for everyone's future well-being): https://www.bitesandbytespodcast.com/
+- SecurityNow (Personal favorite! IYKYK) by TWiT: https://twit.tv/shows/security-now
+- Darknet Diaries (Cult favorite! Best listened to on long night drives) by Jack Rhysider: https://darknetdiaries.com/
+- Modem Mischief (Close second for historical hacking stories!) by Keith Korneluk: https://www.modemmischief.com/
+  The remainder I am aware of in no particular order:
 - Cyber Empathy by Andra Zaharia: https://cyberempathy.org/
-- Darknet Diaries by Jack Rhysider: https://darknetdiaries.com/
 - Malicious Life by Cybereason: https://malicious.life/
 - Hacked by Scott Francis Winder & Jordan Bloemen: https://www.patreon.com/hackedpodcast
 - What the Hack? by Adam Levin and Loud Tree Media: https://adamlevin.com/what-the-hack/
@@ -180,14 +183,12 @@ Most podcasts to my knowledge are free, this is a great way to absorb cybersecur
 - Talkin' About InfoSec News by Black Hills InfoSec: https://www.blackhillsinfosec.com/podcasts/ 
 - UNSECURITY by FR Secure: https://frsecure.com/podcasts/
 - Human Factor Security by Jenny Radcliffe: https://humanfactorsecurity.co.uk/podcast-2/
-- SecurityNow by TWiT: https://twit.tv/shows/security-now
 - CYBER by Vice: https://www.vice.com/en/topic/cyber
 - Risky Biz News by Patrick Gray: https://risky.biz/
 - BarCode Security by Chris Glanden: https://barcodesecurity.com/episodes/
 - The Hacker Factory by Phillip Wylie: https://www.thehackermaker.com/the-hacker-factory-podcast/
 - Haunted Hacker by Mike Jones: https://www.podserve.fm/series/website/h4unt3d-hacker,2948/
 - Security Bytes by Jim Tiller: https://www.nashsquared.com/the-hub/archive-podcast-full-listing
-
 - Cyber Wire Podcasts (Public) by N2K Networks: https://thecyberwire.com/podcasts
 	- Hacking Humans: https://thecyberwire.com/podcasts/hacking-humans
 	- Control Loop - The OT Cyber Podcast: https://thecyberwire.com/podcasts/control-loop
@@ -275,6 +276,8 @@ For your consideration, look into HPR:
 
 ### Interactive Online
 If you made it this far... It's time for VGhlIEcwMDAwRCBTdHVmZmZm
+
+*Prices and Structure of course offerings have probably changed since I put this together, will leave the OG prices and description for reference. As new ones can be found on their linked websites.*
 
 **TryHackMe**: https://tryhackme.com/
 - Enroll Your Classroom (if you're a teacher / professor): https://tryhackme.com/classrooms
